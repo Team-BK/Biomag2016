@@ -1,5 +1,5 @@
 # Biomag2016 competition3
-Our submission to the [Competition 3 at Biomag2016](https://sites.google.com/site/hubertcecotti/home/biomag2016)
+Alexandre Barachant and Jean-Remi King's submission to the [Competition 3 at Biomag2016](https://sites.google.com/site/hubertcecotti/home/biomag2016)
 
 2 submission are provided:
 - Our [main submission](Final_Submission.ipynb)
