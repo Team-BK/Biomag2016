@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/69551092.svg)](https://zenodo.org/badge/latestdoi/69551092)
+
 # Winners of Biomag2016 competition3
 [Alexandre Barachant](https://github.com/alexandrebarachant/) and [Jean-Remi King](https://github.com/kingjr)'s submission to the [Competition 3 at Biomag2016](https://sites.google.com/site/hubertcecotti/home/biomag2016)
 
